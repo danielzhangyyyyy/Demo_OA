@@ -165,11 +165,11 @@ namespace CZBK.ItcastOA.WebApp.Controllers
          public ActionResult ShowUserAction()
          {
              int userId = int.Parse(Request["userId"]);
-            var userInfo=UserInfoService.LoadEntities(u=>u.ID==userId).FirstOrDefault();
+            var userInfo = UserInfoService.LoadEntities(u=>u.ID==userId).FirstOrDefault();
             ViewBag.UserInfo = userInfo;
              //获取所有的权限。
              short delFlag = (short)DeleteEnumType.Normarl;
-            var allActionList= ActionInfoService.LoadEntities(a => a.DelFlag == delFlag).ToList();
+            var allActionList = ActionInfoService.LoadEntities(a => a.DelFlag == delFlag).ToList();
              //获取要分配的用户已经有的权限。
             var allActionIdList = (from a in userInfo.R_UserInfo_ActionInfo
                                    select a).ToList();

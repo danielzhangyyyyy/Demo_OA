@@ -88,7 +88,7 @@
         }
         //添加信息
         function addInfo() {
-            //给ifrme指定页面的URL地址。
+            //给iframe指定页面的URL地址。
             $("#addFrame").attr("src", "/RoleInfo/ShowAddInfo");
             $("#addDiv").css("display", "block");
             $('#addDiv').dialog({
@@ -116,7 +116,7 @@
                 }]
             });
         }
-        //添加完成后调用该方法。
+        //添加完成后调用该方法去关闭对话框。
         function afterAdd(data) {
             if (data == "ok") {
                 $('#addDiv').dialog('close');
