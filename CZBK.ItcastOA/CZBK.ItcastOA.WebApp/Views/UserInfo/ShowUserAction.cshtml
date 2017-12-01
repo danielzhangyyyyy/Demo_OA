@@ -112,7 +112,7 @@
     function bindClearBtnClickEvent() {
         $(".btnClear").click(function () {
             var actionId = $(this).attr("ids");//获取权限编号
-            var $control=$(this)
+            var $control = $(this)
             $.post("/UserInfo/ClearUserAction", { "actionId": actionId, "userId": '@userInfo.ID' }, function (data) {
                 var serverData = data.split(':');
                 if (serverData[0] == "ok") {

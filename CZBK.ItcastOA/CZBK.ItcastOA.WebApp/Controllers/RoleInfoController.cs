@@ -58,13 +58,13 @@ namespace CZBK.ItcastOA.WebApp.Controllers
             ViewBag.RoleInfo = roleInfo;
             //获取所有的权限。
             short delFlag = (short)DeleteEnumType.Normarl;
-          var actionInfoList= ActionInfoService.LoadEntities(a=>a.DelFlag==delFlag).ToList();
+            var actionInfoList = ActionInfoService.LoadEntities(a=>a.DelFlag==delFlag).ToList();
             //要分配权限的角色以前有哪些权限。
-          var actionIdList = (from a in roleInfo.ActionInfo
-                              select a.ID).ToList();
-          ViewBag.ActionInfoList = actionInfoList;
-          ViewBag.ActionIdList = actionIdList;
-          return View();
+            var actionIdList = (from a in roleInfo.ActionInfo
+                                select a.ID).ToList();
+            ViewBag.ActionInfoList = actionInfoList;
+            ViewBag.ActionIdList = actionIdList;
+            return View();
         }
         #endregion
 
