@@ -7,6 +7,7 @@ using System.Web.Mvc;
 
 namespace CZBK.ItcastOA.WebApp.Models
 {
+    //HandleErrorAttribute为mvc自带的异常处理过滤器，所有的访问异常都将被该过滤器捕获，并排到队列中
     public class MyExceptionAttribute : HandleErrorAttribute
     {
         public static Queue<Exception> ExecptionQueue = new Queue<Exception>();

@@ -116,3 +116,17 @@ E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\20
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\obj\Debug\CZBK.ItcastOA.IBLL.csprojResolveAssemblyReference.cache
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\obj\Debug\CZBK.ItcastOA.IBLL.dll
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\obj\Debug\CZBK.ItcastOA.IBLL.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\CZBK.ItcastOA.IBLL.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\CZBK.ItcastOA.IBLL.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\CZBK.ItcastOA.IDAL.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\CZBK.ItcastOA.Model.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\EntityFramework.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\Newtonsoft.Json.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\CZBK.ItcastOA.IDAL.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\CZBK.ItcastOA.Model.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\EntityFramework.xml
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\Newtonsoft.Json.xml
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\obj\Debug\CZBK.ItcastOA.IBLL.csprojResolveAssemblyReference.cache
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\obj\Debug\CZBK.ItcastOA.IBLL.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.IBLL\obj\Debug\CZBK.ItcastOA.IBLL.pdb

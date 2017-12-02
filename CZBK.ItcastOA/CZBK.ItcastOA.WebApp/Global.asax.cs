@@ -44,7 +44,7 @@ namespace CZBK.ItcastOA.WebApp
                             //将异常信息写到日志文件中。
                             //string fileName = DateTime.Now.ToString("yyyy-MM-dd");
                             //File.AppendAllText(filePath+fileName+".txt",ex.ToString(),System.Text.Encoding.UTF8);
-                            ILog logger = LogManager.GetLogger("errorMsg");
+                            ILog logger = LogManager.GetLogger("errorMsg"); //log for net
                             logger.Error(ex.ToString());
                         }
                         else
