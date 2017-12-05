@@ -93,3 +93,17 @@ E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\20
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.csproj.GenerateResource.Cache
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.exe
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\services.xml
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\CZBK.ItcastOA.SpringNet.exe.config
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\CZBK.ItcastOA.SpringNet.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\CZBK.ItcastOA.SpringNet.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\Common.Logging.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\Spring.Core.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\Spring.Core.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\bin\Debug\Spring.Core.xml
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.csprojResolveAssemblyReference.cache
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.Form1.resources
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.Properties.Resources.resources
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.csproj.GenerateResource.Cache
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.pdb

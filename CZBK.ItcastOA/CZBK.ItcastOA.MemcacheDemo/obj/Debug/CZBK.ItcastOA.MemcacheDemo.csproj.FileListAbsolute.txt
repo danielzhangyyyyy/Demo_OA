@@ -50,3 +50,13 @@ E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\20
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.csprojResolveAssemblyReference.cache
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.exe
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\bin\Debug\CZBK.ItcastOA.MemcacheDemo.exe.config
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\bin\Debug\CZBK.ItcastOA.MemcacheDemo.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\bin\Debug\CZBK.ItcastOA.MemcacheDemo.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\bin\Debug\Commons.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\bin\Debug\log4net.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\bin\Debug\Memcached.ClientLibrary.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.csprojResolveAssemblyReference.cache
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.pdb

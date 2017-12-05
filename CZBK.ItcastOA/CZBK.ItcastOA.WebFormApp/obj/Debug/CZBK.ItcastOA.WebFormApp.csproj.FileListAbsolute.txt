@@ -9,3 +9,8 @@ E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\20
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\obj\Debug\CZBK.ItcastOA.WebFormApp.csprojResolveAssemblyReference.cache
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\obj\Debug\CZBK.ItcastOA.WebFormApp.dll
 E:\07、NET就业班第24期【建议看】\传智就业班培训：.NET24期\2015-07-03-OA项目第九天内容\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\obj\Debug\CZBK.ItcastOA.WebFormApp.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\bin\CZBK.ItcastOA.WebFormApp.dll.config
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\bin\CZBK.ItcastOA.WebFormApp.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\bin\CZBK.ItcastOA.WebFormApp.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\obj\Debug\CZBK.ItcastOA.WebFormApp.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\CZBK.ItcastOA.WebFormApp\obj\Debug\CZBK.ItcastOA.WebFormApp.pdb
