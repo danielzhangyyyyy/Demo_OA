@@ -66,7 +66,7 @@ namespace CZBK.ItcastOA.LuceneNetDemo
 
         private void button4_Click(object sender, EventArgs e)
         {
-            string indexPath = @"C:\lucenedir";//注意和磁盘上文件夹的大小写一致，否则会报错。将创建的分词内容放在该目录下。
+            string indexPath = @"..\lucenedir";//注意和磁盘上文件夹的大小写一致，否则会报错。将创建的分词内容放在该目录下。
             FSDirectory directory = FSDirectory.Open(new DirectoryInfo(indexPath), new NativeFSLockFactory());//指定索引文件(打开索引目录) FS指的是就是FileSystem
             bool isUpdate = IndexReader.IndexExists(directory);//IndexReader:对索引进行读取的类。该语句的作用：判断索引库文件夹是否存在以及索引特征文件是否存在。
             if (isUpdate)
@@ -105,7 +105,7 @@ namespace CZBK.ItcastOA.LuceneNetDemo
         /// <param name="e"></param>
         private void button5_Click(object sender, EventArgs e)
         {
-            string indexPath = @"C:\lucenedir";
+            string indexPath = @"..\lucenedir";
             string kw = "面向对象";//对用户输入的搜索条件进行拆分。
             FSDirectory directory = FSDirectory.Open(new DirectoryInfo(indexPath), new NoLockFactory());
             IndexReader reader = IndexReader.Open(directory, true);

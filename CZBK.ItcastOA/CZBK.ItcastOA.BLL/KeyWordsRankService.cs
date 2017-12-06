@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CZBK.ItcastOA.BLL
 {
-   public partial class KeyWordsRankService:BaseService<Model.KeyWordsRank>,IBLL.IKeyWordsRankService
+    public partial class KeyWordsRankService:BaseService<Model.KeyWordsRank>,IBLL.IKeyWordsRankService
     {
        /// <summary>
        /// 将统计的明细表的数据插入。

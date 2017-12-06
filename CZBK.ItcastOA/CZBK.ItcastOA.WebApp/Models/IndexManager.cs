@@ -12,9 +12,11 @@ using System.Web;
 
 namespace CZBK.ItcastOA.WebApp.Models
 {
+    //该类使用了queue解决lucene的高并发问题， 并单例化了queue，因为数据不单单要写到database中，也要写到lucene.net中
     public sealed class IndexManager
     {
         private static readonly IndexManager indexManager = new IndexManager();
+        //private constructor: 让该类只能在自己这个类中new
         private IndexManager()
         {
         }
@@ -79,13 +81,13 @@ namespace CZBK.ItcastOA.WebApp.Models
         }
         private void CreateIndexContent()
         {
-            string indexPath = @"C:\lucenedir";//注意和磁盘上文件夹的大小写一致，否则会报错。将创建的分词内容放在该目录下。//将路径写到配置文件中。
+            string indexPath = @"..\lucenedir";//注意和磁盘上文件夹的大小写一致，否则会报错。将创建的分词内容放在该目录下。//将路径写到配置文件中。
             FSDirectory directory = FSDirectory.Open(new DirectoryInfo(indexPath), new NativeFSLockFactory());//指定索引文件(打开索引目录) FS指的是就是FileSystem
             bool isUpdate = IndexReader.IndexExists(directory);//IndexReader:对索引进行读取的类。该语句的作用：判断索引库文件夹是否存在以及索引特征文件是否存在。
             if (isUpdate)
             {
                 //同时只能有一段代码对索引库进行写操作。当使用IndexWriter打开directory时会自动对索引库文件上锁。
-                //如果索引目录被锁定（比如索引过程中程序异常退出），则首先解锁（提示一下：如果我现在正在写着已经加锁了，但是还没有写完，这时候又来一个请求，那么不就解锁了吗？这个问题后面会解决）
+                //如果索引目录被锁定（比如索引过程中程序异常退出），则首先解锁（提示：如果我现在正在写着已经加锁了，但是还没有写完，这时候又来一个请求，那么不就解锁了吗？address this later）
                 if (IndexWriter.IsLocked(directory))
                 {
                     IndexWriter.Unlock(directory);
@@ -114,7 +116,7 @@ namespace CZBK.ItcastOA.WebApp.Models
 
             }
             writer.Close();//会自动解锁。
-            directory.Close();//不要忘了C
+            directory.Close();//不要忘了Close
         }
 
     }
