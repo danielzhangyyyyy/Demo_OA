@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--control inversion-->
 <objects>
   <object type="CZBK.ItcastOA.BLL.UserInfoService, CZBK.ItcastOA.BLL" singleton="false" name="UserInfoService" >
   </object>

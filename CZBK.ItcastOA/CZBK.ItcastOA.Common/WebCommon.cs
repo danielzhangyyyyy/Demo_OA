@@ -38,6 +38,7 @@ namespace CZBK.ItcastOA.Common
            //获取最匹配的摘要段
            return highlighter.GetBestFragment(keywords, Content);
 
-       }
+       }
+
     }
 }

@@ -81,7 +81,7 @@ namespace CZBK.ItcastOA.LuceneNetDemo
             IndexWriter writer = new IndexWriter(directory, new PanGuAnalyzer(), !isUpdate, Lucene.Net.Index.IndexWriter.MaxFieldLength.UNLIMITED);//向索引库中写索引。这时在这里加锁。
             for (int i = 1; i <= 10; i++)
             {
-                string txt = File.ReadAllText(@"D:\传智讲课\0413班\OA\OA项目，第七天搜索，Lucene.Net，盘古分词，Quartz.Net\资料\测试文件\" + i + ".txt", System.Text.Encoding.Default);//注意这个地方的编码
+                string txt = File.ReadAllText(@"..\Quartz.Net\资料\测试文件\" + i + ".txt", System.Text.Encoding.Default);//注意这个地方的编码
                 Document document = new Document();//表示一篇文档。
                 //Field.Store.YES:表示是否存储原值。只有当Field.Store.YES在后面才能用doc.Get("number")取出值来.Field.Index. NOT_ANALYZED:不进行分词保存
                 document.Add(new Field("number", i.ToString(), Field.Store.YES, Field.Index.NOT_ANALYZED));
