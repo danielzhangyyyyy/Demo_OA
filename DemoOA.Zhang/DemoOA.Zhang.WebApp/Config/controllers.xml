@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <object  type="DemoOA.Zhang.WebApp.Controllers.UserInfoController, DemoOA.Zhang.WebApp" singleton="false" >
+    <property name="UserInfoService" ref="UserInfoService" />
+  <property name="RoleInfoService" ref="RoleInfoService" />
+    <property name="ActionInfoService" ref="ActionInfoService" />
+    <property name="R_UserInfo_ActionInfoService" ref="R_UserInfo_ActionInfoService" />
+  </object>
+
+  <object  type="DemoOA.Zhang.WebApp.Controllers.LoginController, DemoOA.Zhang.WebApp" singleton="false" >
+    <property name="UserInfoService" ref="UserInfoService" />
+  </object>
+  <object  type="DemoOA.Zhang.WebApp.Controllers.RoleInfoController, DemoOA.Zhang.WebApp" singleton="false" >
+    <property name="RoleInfoService" ref="RoleInfoService" />
+    <property name="ActionInfoService" ref="ActionInfoService" />
+  </object>
+  <object  type="DemoOA.Zhang.WebApp.Controllers.ActionInfoController, DemoOA.Zhang.WebApp" singleton="false" >
+    <property name="ActionInfoService" ref="ActionInfoService" />
+  </object>
+
+  <object  type="DemoOA.Zhang.WebApp.Controllers.HomeController, DemoOA.Zhang.WebApp" singleton="false" >
+    <property name="UserInfoService" ref="UserInfoService" />
+  </object>
+  <object  type="DemoOA.Zhang.WebApp.Controllers.SearchController, DemoOA.Zhang.WebApp" singleton="false" >
+    <property name="BooksService" ref="BooksService" />
+    <property name="SearchDetailsService" ref="SearchDetailsService" />
+  <property name="KeyWordsRankService" ref="KeyWordsRankService" />
+  </object>
+
+  <!--intentionally do NOT register the AccountController or the ValuesController with the container; demonstrates that the underlying
+  default controller factory will properly (attempt to!) resolve all controllers not registered with Spring.NET
+  using its default controller resolution behavoir-->
+  <!--<object type="Spring.Mvc4QuickStart.Controllers.AccountController, Spring.Mvc4QuickStart" singleton="false" />-->
+  <!--<object type="Spring.Mvc4QuickStart.Controllers.ValuesController, Spring.Mvc4QuickStart" singleton="false" />-->
+</objects>

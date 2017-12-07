@@ -1,0 +1,9 @@
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\bin\Debug\CZBK.ItcastOA.MemcacheDemo.exe.config
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\bin\Debug\CZBK.ItcastOA.MemcacheDemo.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\bin\Debug\CZBK.ItcastOA.MemcacheDemo.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\bin\Debug\Commons.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\bin\Debug\log4net.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\bin\Debug\Memcached.ClientLibrary.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.MemcacheDemo\obj\Debug\CZBK.ItcastOA.MemcacheDemo.pdb

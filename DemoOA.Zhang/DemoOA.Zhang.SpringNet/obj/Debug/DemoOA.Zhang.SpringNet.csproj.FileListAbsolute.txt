@@ -1,0 +1,13 @@
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\services.xml
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\CZBK.ItcastOA.SpringNet.exe.config
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\CZBK.ItcastOA.SpringNet.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\CZBK.ItcastOA.SpringNet.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\Common.Logging.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\Spring.Core.dll
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\Spring.Core.pdb
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\bin\Debug\Spring.Core.xml
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\obj\Debug\DemoOA.Zhang.SpringNet.Form1.resources
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.Properties.Resources.resources
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\obj\Debug\DemoOA.Zhang.SpringNet.csproj.GenerateResource.Cache
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.exe
+F:\vs_code\Demo_OA\CZBK.ItcastOA\DemoOA.Zhang.SpringNet\obj\Debug\CZBK.ItcastOA.SpringNet.pdb

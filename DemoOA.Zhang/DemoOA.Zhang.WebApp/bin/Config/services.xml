@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--control inversion-->
+<objects>
+  <object type="DemoOA.Zhang.BLL.UserInfoService, DemoOA.Zhang.BLL" singleton="false" name="UserInfoService" >
+  </object>
+  <object type="DemoOA.Zhang.BLL.RoleInfoService, DemoOA.Zhang.BLL" singleton="false" name="RoleInfoService" >
+  </object>
+  <object type="DemoOA.Zhang.BLL.ActionInfoService, DemoOA.Zhang.BLL" singleton="false" name="ActionInfoService" >
+  </object>
+  <object type="DemoOA.Zhang.BLL.R_UserInfo_ActionInfoService, DemoOA.Zhang.BLL" singleton="false" name="R_UserInfo_ActionInfoService" >
+  </object>
+  <object type="DemoOA.Zhang.BLL.BooksService, DemoOA.Zhang.BLL" singleton="false" name="BooksService" >
+  </object>
+  <object type="DemoOA.Zhang.BLL.SearchDetailsService, DemoOA.Zhang.BLL" singleton="false" name="SearchDetailsService" >
+  </object>
+  <object type="DemoOA.Zhang.BLL.KeyWordsRankService, DemoOA.Zhang.BLL" singleton="false" name="KeyWordsRankService" >
+  </object>
+</objects>
